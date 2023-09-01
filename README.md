@@ -16,4 +16,4 @@ All existing tools will be replaced with their zcoreutils counterparts, a.k.a. y
 
 ## license
 
-GPLv3. See LICENSE.
+GPLv3. See LICENSE.md.
